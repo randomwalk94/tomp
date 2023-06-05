@@ -1,4 +1,4 @@
-The scrips in this repository are numerical implementations of the paper (tomp_siam.pdf)
+The scrips in this repository are numerical implementations of the paper (TOMP_Siam.pdf)
 
 **Thresholding Orthogonal Matching Pursuit for Imaging Applications**, *Hai Le, Alexei Novikov*.
 
